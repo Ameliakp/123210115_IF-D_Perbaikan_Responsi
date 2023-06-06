@@ -1,0 +1,1 @@
+viewresponsi.AdminPageView
